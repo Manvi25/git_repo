@@ -1,1 +1,1 @@
-This is a readme file for assignments which are being done
+This is a readme file for all the assignments.
